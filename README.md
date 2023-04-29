@@ -1,5 +1,5 @@
 
-# Code-Abhyas Event (Apirl)
+# Code-Abhyas Event (April)
 
 Code-Abhyas was an event organized by the Coding Connoisseurs from the University of Lucknow. It was a coding competition that tested the programming skills of the participants.
 
